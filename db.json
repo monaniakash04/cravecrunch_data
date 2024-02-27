@@ -1,0 +1,182 @@
+{
+  "pizza": [
+    {
+      "id": 1,
+      "title": "Arugula and burratta pizza",
+      "image": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 250,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 2,
+      "title": "Cheez Pizza",
+      "image": "https://images.unsplash.com/photo-1613564834361-9436948817d1?q=80&w=1943&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 300,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 3,
+      "title": "Classic Cheese Pizza",
+      "image": "https://images.unsplash.com/photo-1506354666786-959d6d497f1a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 280,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 4,
+      "title": "Classic Cheese Pizza",
+      "image": "https://images.unsplash.com/photo-1695284512188-b5b588034b80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 90,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 5,
+      "title": "Classic Cheese Pizza",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdlQ9UhUsV92zv3pmh_JcxhcnEVImlkY-qhITsh1iyw&s",
+      "price": 380,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 6,
+      "title": "Marghreta Pizza",
+      "image": "https://images.pexels.com/photos/367915/pexels-photo-367915.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 420,
+      "quantity": 1,
+      "totalprice": 0
+    }
+  ],
+  "pasta": [
+    {
+      "id": 7,
+      "title": "Pasta With Green Leaf And Chili Pepper",
+      "image": "https://images.pexels.com/photos/1460872/pexels-photo-1460872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 200,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 8,
+      "title": "Cheezi Pasta",
+      "image": "https://images.pexels.com/photos/1487511/pexels-photo-1487511.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 300,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 9,
+      "title": "Italian-Spaghetti",
+      "image": "https://www.favfamilyrecipes.com/wp-content/uploads/2021/06/Italian-Spaghetti-12.jpg",
+      "price": 370,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 10,
+      "title": "Italian Pasta Salad",
+      "image": "https://www.thecomfortofcooking.com/wp-content/uploads/2016/04/ItalianPastaSalad-1.jpg",
+      "price": 370,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 11,
+      "title": "Spring-Vegetable-Pasta",
+      "image": "https://www.momskitchenhandbook.com/wp-content/uploads/2017/04/Spring-Vegetable-Pasta.jpg",
+      "price": 190,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 12,
+      "title": "Tomato pasta",
+      "image": "https://th.bing.com/th/id/OIP.LCHXOwU6Cji_TqoWDFarHwHaE8?rs=1&pid=ImgDetMain",
+      "price": 230,
+      "quantity": 1,
+      "totalprice": 0
+    }
+  ],
+  "bread": [
+    {
+      "id": 13,
+      "title": "Cheez Garlic Bread",
+      "image": "https://th.bing.com/th/id/OIP.W_km3oYx3dXHjlt1yvUDVQHaFj?rs=1&pid=ImgDetMain",
+      "price": 90,
+      "quantity": 1,
+      "totalprice": 0
+    }
+  ],
+  "sandwich": [
+    {
+      "id": 19,
+      "title": "Vegitable Sandwich",
+      "image": "https://vegplatter.in/files/public/images/partner/catalog/200/Grill-Veg-Sandwich.png",
+      "price": 100,
+      "quantity": 1,
+      "totalprice": 0
+    }
+  ],
+  "drink": [
+    {
+      "id": 25,
+      "title": "Fanta Drink",
+      "image": "https://th.bing.com/th/id/OIP.sPvQibznbJiC4yEfY6pnRgHaHa?rs=1&pid=ImgDetMain",
+      "price": 40,
+      "quantity": 1,
+      "totalprice": 0
+    }
+  ],
+  "all": [
+    {
+      "id": 1,
+      "title": "Arugula and burratta pizza",
+      "image": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 250,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 19,
+      "title": "Vegitable Sandwich",
+      "image": "https://vegplatter.in/files/public/images/partner/catalog/200/Grill-Veg-Sandwich.png",
+      "price": 100,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 13,
+      "title": "Cheez Garlic Bread",
+      "image": "https://th.bing.com/th/id/OIP.W_km3oYx3dXHjlt1yvUDVQHaFj?rs=1&pid=ImgDetMain",
+      "price": 90,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 25,
+      "title": "Fanta Drink",
+      "image": "https://th.bing.com/th/id/OIP.sPvQibznbJiC4yEfY6pnRgHaHa?rs=1&pid=ImgDetMain",
+      "price": 40,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 12,
+      "title": "Tomato pasta",
+      "image": "https://th.bing.com/th/id/OIP.LCHXOwU6Cji_TqoWDFarHwHaE8?rs=1&pid=ImgDetMain",
+      "price": 230,
+      "quantity": 1,
+      "totalprice": 0
+    },
+    {
+      "id": 5,
+      "title": "Classic Cheese Pizza",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdlQ9UhUsV92zv3pmh_JcxhcnEVImlkY-qhITsh1iyw&s",
+      "price": 380,
+      "quantity": 1,
+      "totalprice": 0
+    }
+  ]
+}
